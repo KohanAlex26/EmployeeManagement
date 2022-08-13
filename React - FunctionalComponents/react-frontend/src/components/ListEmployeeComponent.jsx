@@ -9,7 +9,6 @@ const ListEmployeeComponent = () => {
 
     useEffect(() => {
         getAllEmployees();
-
     }, [])
     
 
