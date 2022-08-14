@@ -16,7 +16,7 @@ const ViewEmployeeComponent = () => {
             console.log(error)
         })
 
-    })
+    },[])
 
     return (
         <div>
